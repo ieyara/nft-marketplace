@@ -39,7 +39,7 @@ typechain
 
 #Hardhat files
 cache
-artifacts
+# artifacts
 
 # Local Netlify folder
 .netlify
